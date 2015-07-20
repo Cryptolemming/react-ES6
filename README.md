@@ -1,2 +1,2 @@
 # react-ES6
-React ES6 experiments
+Playing with React / ES6+ / bundles 
